@@ -27,7 +27,7 @@ _Now Srinivasa exclaimed “you doooo”_
 _Suitecase said yes, and said I found a flower 
 in the upstairs room and it must the cause of the problem._  
 
-_The flower was giving out fragrance that was going all over the cassette._ ![Image](yellowflower.png)
+_The flower was giving out fragrance that was going all over the cassette.![Image](yellowflower.png)_
 
 _Srinivasa said "YUBA"   Aha. Let’s all see if the flower is causing the problem._
 
