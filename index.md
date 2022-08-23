@@ -8,7 +8,7 @@
 
 _Todays story is srinivasa mammoth and the case of the vanishing video._
 
-_Suitecase has a video cassette._
+_Suitecase has a video cassette._  
 
 _He takes pictures with a video camera that is recorded on the videocassette._
 
@@ -24,9 +24,10 @@ _Suitecase said Aha I know  what the problem is._
 
 _Now Srinivasa exclaimed “you doooo”_
 
-_Suitecase said yes, and said I found a flower in the upstairs room and it must the cause of the problem._
+_Suitecase said yes, and said I found a flower 
+in the upstairs room and it must the cause of the problem._  
 
-_The flower was giving out fragrance that was going all over the cassette._
+_The flower was giving out fragrance that was going all over the cassette._ ![Image](yellowflower.png)
 
 _Srinivasa said "YUBA"   Aha. Let’s all see if the flower is causing the problem._
 
@@ -59,10 +60,5 @@ Keep visiting my page for updates**
 
 
 **Bold** and _Italic_ and `Code` text
-
-![Image](src)
-
-### The End 
-### Thank you for vistsing my page
 
 
