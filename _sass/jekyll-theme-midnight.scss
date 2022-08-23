@@ -14,7 +14,9 @@ body {
   background: #3a49f5;
   background-attachment: fixed !important;
  // background: linear-gradient(#2a2a29, #1c1c1c);
-  background: linear-gradient(#d0b5c6, #c7d3eb);
+ // background: linear-gradient(#d0b5c6, #c7d3eb);
+  background-image: url('yellowflower.png');
+  background-position: right-top;
 }
 
 h1, h2, h3, h4, h5, h6 {
