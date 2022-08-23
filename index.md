@@ -20,14 +20,21 @@ _Srinivasa mammoth was looking at the photos in the same old house where Suiteca
 
 _He was watching too and the video playing on the cassette player_
 
+_There was a cracked window in that room_
+
 _Suitecase said Aha I know  what the problem is._
 
 _Now Srinivasa exclaimed “you doooo”_
 
-_Suitecase said yes, and said I found a flower 
-in the upstairs room and it must the cause of the problem._  
+_Suitecase said yes, and said I found a watermelon creper_
 
-_The flower was giving out fragrance that was going all over the cassette.![Image](yellowflower.png)_
+_and oragne blossom branch coming through the cracked window._
+
+_in the upstairs room and it must the cause of the problem._  
+
+_The flower was giving out fragrance that was going through the cracked window_
+
+_and clouding over the cassette.![Image](yellowflower.png)_
 
 _Srinivasa said "YUBA"   Aha. Let’s all see if the flower is causing the problem._
 
@@ -56,9 +63,3 @@ _Srinivasa and Kamala fox wanted a copy. Suitecase made a copy for all and gave 
 Keep visiting my page for updates**
 
 ### "YUBA" I mean
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-
