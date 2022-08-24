@@ -34,7 +34,7 @@ _in the upstairs room and it must the cause of the problem._
 
 _The flower was giving out fragrance that was going through the cracked window_
 
-_and clouding over the cassette.![Image](yellowflower.png)_
+_and clouding over the cassette._  ![Cracked Window](crackedwindow.svg "crackedwindow.svg")
 
 _Srinivasa said "YUBA"   Aha. Let’s all see if the flower is causing the problem._
 
@@ -63,3 +63,8 @@ _Srinivasa and Kamala fox wanted a copy. Suitecase made a copy for all and gave 
 Keep visiting my page for updates**
 
 ### "YUBA" I mean
+
+![Suitecase's tree](yellowflower.png "Tree Yeelow Flower")
+
+<b>Image Photo by SuiteCase Friend</b>
+<hr style="border:5px solid yellow">
