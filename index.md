@@ -48,7 +48,7 @@ _Suitecase called Kamala fox and said that I have a video that you might want to
 
 _Kamala fox said yes and came over._
 
-_Srinivasa mammoth said wow it is my great grand patents._
+_Srinivasa mammoth said wow it is my great grand parents._
 
 _They watched the video. Kamala fox said I like it._
 
