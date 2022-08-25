@@ -62,7 +62,7 @@ _Srinivasa and Kamala fox wanted a copy. Suitecase made a copy for all and gave 
 **Thank you
 Keep visiting my page for updates**
 
-### "YUBA" I mean
+### "YUBA" I mean bye
 
 ![Suitecase's tree](yellowflower.png "Tree Yeelow Flower")
 
