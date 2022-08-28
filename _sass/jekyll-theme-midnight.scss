@@ -209,7 +209,8 @@ margin: 0px auto;
 
           background-color: #93bd20;
           padding: 10px 12px;
-          margin-top: 6px;
+        //  margin-top: 6px; //changed
+          margin-top: 1px;
           line-height:14px;
           font-size:14px;
           display:inline-block;
@@ -224,7 +225,7 @@ margin: 0px auto;
         }
 
         &.fork {
-          float: right;
+          float: left;
           // float: left; //changed
           margin-left: 0px;
         }
@@ -279,9 +280,10 @@ section {
     }
 
     .credits {
-      font-size: 11px;
+      font-size: 16px;
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-weight: normal;
+      //font-weight: normal;//changed
+      font-weight: 700;
       //color: #696969;
       color: #059001;
       margin-top: -10px;
