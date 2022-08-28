@@ -180,11 +180,11 @@ dt {
   
   nav {
     max-width: 650px;
-    margin: 0 auto;
+  //  margin: 0 auto; //original?
     padding: 0 10px;
     background: blue;
-  //  margin: 6px auto; //change
-margin: 0px auto;
+   margin: 0 25px 0 0; //change
+
     ul {
       list-style-type: none;
       margin: 0;
