@@ -182,11 +182,11 @@ dt {
   
   nav {
     max-width: 650px;
-  //  margin: 0 auto; //original?
+   margin: 0 auto; //original? back to this
    // padding: 0 10px;
      padding: 0 0px;  //changed
     background: blue;
-   margin: 0 10px 0 10px; //change
+  // margin: 0 10px 0 10px; //change
 
     ul {
       list-style-type: none;
